@@ -688,3 +688,4 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ https://astro2.rastream.com/hitz
 
+#EXTM3U billed-msg=" Bijan Busuk Forever "
