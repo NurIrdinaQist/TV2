@@ -119,8 +119,10 @@ https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YjlmNGY4YWYtODNlYi0zNjY4LTlhNDgtYzIyMDFlMGQ1NjYw https://web.hypp.tv:443/PLTV/88888888/224/3221227601/3221227601.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=ZGlr1wUdBOOGDryKF0kvMbVYvPMGti8RF6MXybwThZ1coxPnjsRNYK37DIY9esRa8I9LZAou3Q7IYKq0rsKeuLA6Eaj%2F16opEwsmZHU78Ik%3D%3A20240709070428%3AUTC%2C1005926113%2C210.186.227.73%2C20240709070428%2Curn:Huawei:liveTV:iptv21343%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOza6CMBhE36bLpi0_4qIrb25iYtBEdGuG8tFLKFRbNPHtFeVuZ-ZMzhRgaPujcwWRIytMIZLUrE2RUkZyLes0h2lrYpFupdeKGTjXjbb0zYydj5uLFFxwpSRfsWp--3Wwy7C8DzUFLf-pI4VHZ0g3seUPRA5rA1lMnR_5weF5Cm6ZMKoWM7lSIlNZkiYqkWya0wqxfzfsD3HjhysCNTtvP4Bu4SKxK0wPSyUG0uPduS-3D83b5gVmBUqE8wAAAA&tenantId=6001
