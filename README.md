@@ -79,7 +79,7 @@ https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDXGq4NlIpRKwL2ez
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/1004/default_primary.mpd
+https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/1004/index.mpd
 
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
