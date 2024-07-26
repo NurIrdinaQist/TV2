@@ -503,11 +503,31 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/movies-now-hd/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix
 http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/55305
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix-UK
+https://allinonereborn.com/allinone.php?id=14426
+
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo=""3138 group-title="Sony Liv",Sony Pix HD-India 
+https://allinonereborn.com/allinone.php?id=56783
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+https://jio.drmlive.au/jio/bpk-tv/Sony_Max_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
+https://jio.drmlive.au/jio/bpk-tv/Sony_MAX2_MOB/Fallback/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png", Sony Movies 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
 http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/28823
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",&Flix HD
+https://jio.drmlive.au/jio/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png",And Prive HD
+https://jio.drmlive.au/jio/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&Xplore HD
+https://jio.drmlive.au/jio/bpk-tv/And_Xplore_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies 
 http://opplex.tv:8080//live/83212539/43153928/66213.m3u8
