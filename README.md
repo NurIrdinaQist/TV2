@@ -4,7 +4,130 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml" #EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml" vod_library="https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php, https://fahmikacak.pages.dev/HBOGO%20Asia"
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4Ztpf97cWwzwrVBo3hPQqQ", "kid":"lPrhfk0V4c0L3HztCW+lEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5150/default.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xqCbHYAdNjHNd9pIZXjd9g", "kid":"FgTsETWMbIgQK++Ktb3KEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5151/default.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fHqYI2x9zOQ/EmkZAGC4oA", "kid":"1q/iRrPbBn34N/r8BneNEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5152/default.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ocORwepRV1bVJyly1rvXKQ", "kid":"ZKjwhJDZHe2J+XfYWHjREA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5153/default.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KI5/icnIcm2IB1Pdr55w7Q", "kid":"jLZ7f6NN5hUylHJUMJ1NEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 5
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5155
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5155/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5156
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 7
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5156/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5157
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5157/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5158
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 9
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5158/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5159
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 10
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5159/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5160
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 11
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5160/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5161
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 12
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5161/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5162
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 13
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5162/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5163
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 14
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5163/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5164
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 15
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5164/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5165
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",Astro OLY 16
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5165/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TVqnh3/paris-summer-olympics.webp",RTM OLY1
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b2596000_slENG.m3u8
