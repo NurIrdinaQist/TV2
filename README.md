@@ -231,10 +231,8 @@ https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/index.m3u8|Referer=
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
 http://linears-playback.astro.com.my/vsg/41qevwA9uMYnSKcebcslTfByz0ahmf_ZaWSRv-MBleH-k=w-63/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ {"kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid": "P3Jv1cu/WURDek2/q0MbEA" } ], "type": "temporary"}
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
-http://linears-playback.astro.com.my/vsg/41qevwA9uMYnSKcebcslTfByz0ahmf_ZaWSRv-MBleH-k=w-63/dash-wv/jitp-dashisowm/1004/default_primary.mpd
+
+jitp-dashisowm
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
