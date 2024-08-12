@@ -229,7 +229,7 @@ https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/index.m3u8|Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys": [ {"kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid": "P3Jv1cu/WURDek2/q0MbEA" } ], "type": "temporary"}
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
-http://linears-playback.astro.com.my/vsg/41qevwA9uMYnSKcebcslTfByz0ahmf_ZaWSRv-MBleH-k=w-63/dash-wv/jitp-linearwm/1004/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41qevwA9uMYnSKcebcslTfByYTpUNMKe-_550RI3LtZ3g=-rH7/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 
 jitp-dashisowm
@@ -251,12 +251,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-http://linears-playback.astro.com.my/vsg/41WdOiwCGy3v4v5qi0e1c5gCTuOZU6IdWkijH8oR7H98E=7eea/dash-wv/jitp-linearwm/2402/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41WdOiwCGy3v4v5qi0e1c5gHWx7kXNgXe2B0JhcKLM_fw=xUXx/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-http://linears-playback.astro.com.my/vsg/41E31Eg8nkU_yC7pxD9pgzTzi0ivj-p9nqkYtSpvIJ338=UDwN/dash-wv/jitp-linearwm/2700/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41E31Eg8nkU_yC7pxD9pgzT0FL5G6AgnmJcnPL-8Me3us=tJF9/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji 
