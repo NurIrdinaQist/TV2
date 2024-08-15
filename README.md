@@ -91,7 +91,9 @@ https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/index.m3u8|Referer=
 http://linears-playback.astro.com.my/vsg/41-iMCUetn7HL9g9_DMfDMkz_DiDUa_5jtYif9N_Yzc1A=F1A-/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
-https://tv.jnda.tech/hxr/9u9k4t/l.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type": "Sementara" }
+https://9nmy.short.gy/Biawakking1004.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -112,7 +114,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 http://linears-playback.astro.com.my/vsg/415udcIrJ4zS2GeFMfxANkJ4IjpWOloWZFDEQrQINEP18=ggOb/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
-https://tv.jnda.tech/hxr/1d0euu1/l.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+https://9nmy.short.gy/Biawakking2402.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -120,7 +124,9 @@ https://tv.jnda.tech/hxr/1d0euu1/l.mpd
 http://linears-playback.astro.com.my/vsg/4159jaNFDDC8yOSWA02qdAJ7NNuokwN6sIDrzsXIh7bTY=6a6R/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
-https://tv.jnda.tech/hxr/1obq8t2/l.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type ":"Sementara" }
+https://9nmy.short.gy/Biawakking2700.mpd
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
