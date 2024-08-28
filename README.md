@@ -62,7 +62,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-referrer="https://player.castr.com/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Origin":"https://player.castr.com","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://player.castr.com/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36","connection":"keep-alive"}
-https://tv.jnda.tech/dtc/xowwrh/l.m3u8
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400200777
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -110,13 +110,14 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" } 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191874
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
