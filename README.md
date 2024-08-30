@@ -89,7 +89,7 @@ EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 
 https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -112,7 +112,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" } 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -121,21 +121,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 https://test.zapi.us.kg/?id=astro-warna
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_obiAFxc=wQUh/dash-wv/jitp-dashisowm/2402/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 https://test.zapi.us.kg/?id=astro-citra
 #https://tv.jnda.tech/hxr/1obq8t2/l.mpd
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNnkiTG2uPbSs9anAbROG7mc=fKwl/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" ,Kita 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -485,12 +475,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/AxnMovies.png",Axn Movies 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/AxnMovies.png",Axn Movies 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1jDgTgxeP5jcOIQL4cHdTA", "kid":"+eS+CZJsJi7/orU4GuNVPQ" } ], "type":"temporary" } 
 https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png",Max Stream 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png",Max Stream 
 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key= 
@@ -512,17 +502,17 @@ http://opplex.tv:8080//live/83212539/43153928/66224.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png", Sony Movies 
+EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png", Sony Movies 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
 http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/28823
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",&Flix HD
+EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",&Flix HD
 https://jio.drmlive.au/jio/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png",And Prive HD
+EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png",And Prive HD
 https://jio.drmlive.au/jio/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&Xplore HD
+EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&Xplore HD
 https://jio.drmlive.au/jio/bpk-tv/And_Xplore_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies 
@@ -531,7 +521,7 @@ http://opplex.tv:8080//live/83212539/43153928/66213.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
 http://opplex.tv:8080//live/83212539/43153928/66315.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png",Syfy 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png",Syfy 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DQ31GJJWwL8ywM0JdrrFvQ", "kid":"leweJugMOCWKMBAdBsjL9w" } ] "type":"temporary" } 
 https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
