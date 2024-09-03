@@ -95,9 +95,13 @@ https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/index.m3u8|Referer=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://test.zapi.us.kg/?id=astro-ria
+https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ3W6oGcSb2F0TehTlrYo4Hk=dDKE/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ3W6oGcSb2F0TehTlrYo4Hk=dDKE/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -105,6 +109,7 @@ https://test.zapi.us.kg/?id=astro-ria
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" } 
+'0b65326aede3edbe81e6fb40317d5310': '8412f444ffbe350cf2ece051f9152e90'
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",OASIS HD
