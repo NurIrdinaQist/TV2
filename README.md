@@ -910,7 +910,53 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="1004" tvg-name="1004" tvg-logo="" group-title="ASTRO2",1004
+https://linears-playback.astro.com.my/vsg/41up2QELZ9PTbgmmbxT6cb4k2EbbM4W9sLvPQpKhZPGjc=anih/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="1004" tvg-name="1004" tvg-logo="" group-title="ASTRO2",1000
+https://linears-playback.astro.com.my/vsg/41UIbbvNADubGd3OVb97QyobMM3qJ-Wod8RJ0fJiv3qLA=VNW5/dash-wv/jitp-linearwm/1000/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="1004" tvg-name="1004" tvg-logo="" group-title="ASTRO2",2402
+https://linears-playback.astro.com.my/vsg/411Q7-3rkg3qqqbq1xZnpOOvWeC1Nf-GO9TIKnMDLkrG4=JM0O/dash-wv/jitp-linearwm/2402/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="1004" tvg-name="1004" tvg-logo="" group-title="ASTRO2",2700
+https://linears-playback.astro.com.my/vsg/41pD3yba9rWgpBCjUJcABF4-qFvW-_ptJJGwhBzoMrAAE=wpNJ/dash-wv/jitp-linearwm/2700/default_primary.mpd
+
+#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="ASTRO2",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium123/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="ASTRO2",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://eu-fls4.mizhls.ru/eu-fls4/premium124/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="ASTRO2",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium125/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO2",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium126/index.m3u8
 
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
