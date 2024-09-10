@@ -192,10 +192,10 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hy
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 
 
-EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YjlmNGY4YWYtODNlYi0zNjY4LTlhNDgtYzIyMDFlMGQ1NjYw 
-https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NGUyZWVmYzgtMGI3Mi0zZGUyLTk5ZDctMjA2MzdlZWQyZTVi
+https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=JmQZjDUrhYku6O9w0vIDUDvfo99pB0GhJPB2vMzRP4xm9x6APaGL92fYtMU0DB0ZSx7WoW6YRPkkBMk1ww6ntrA6Eaj%2F16opEwsmZHU78Ik%3D%3A20240909030758%3AUTC%2C1005926113%2C175.142.1.136%2C20240909030758%2Curn:Huawei:liveTV:SP000004015718%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C1642596907%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7CMBBE_8ZHi107SnLwCYSEVKVIpL2ixd6YKE4MdkDq35fQ9Dozb_TmRJYPO1Oy0qUusLOu0gT2ghZJFbVDqDqttMh8b6JBYSmEfvJNdAv2fdqeYSM3EhGkAtEud_tAfl02j_HCycA_duL07C0blzv5pCzJ-8Se5j5O8hjo5yuFdSK4XdWgxKIqQWGtoRbzkraUh1cjrpS3cbxRYvcR_RswHYXM4kZ2IM8NjWymRwh_3GdyL5tfUo_wKfQAAAA&tenantId=6001
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
