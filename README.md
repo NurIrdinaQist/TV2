@@ -59,10 +59,11 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
-#EXTVLCOPT:http-referrer="https://player.castr.com/"
-#EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Origin":"https://player.castr.com","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://player.castr.com/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36","connection":"keep-alive"}
-https://test.zapi.us.kg/?id=awesometv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"428c841430ea18a70f7b06525d4b748a"}
+#EXTHTTP{source:"encrypt:aHR0cHM6Ly80ODhiOWUwNzQ2MjQuYXAtc291dGgtMS5wbGF5YmFjay5saXZlLXZpZGVvLm5ldC9hcGkvdmlkZW8vdjEvYXAtc291dGgtMS41MzMyNjc0MjE5ODUuY2hhbm5lbC5CN2JCMXdISlJDbncubTN1OA==", label:""}, 
+https://video-weaver.sin01.hls.live-video.net/v1/playlist/CuEFAbfJYyPIoQxWRfwzu9XTmXwHmOAXAMuGxPZJOCaJW8Se3w4Ph9kA91B3BxWSAzi3et-63KfiNVR_Ui-Hx2EB4TN4VrfEzMHB1LL7qwQ5m4m90Etz9D0HGfF5dkcatu7ffKPCotsD_E1j5eJOGDPaI7wj9W9nN0BaK6WmkjBw6TEQaroyMzH6sTC0LZhYgaFWx9CTtFz6sZ91GSfQ-tzslbXZigAnVO80dwtV1KimYCrMSvNWDtQbcQknWcOZ8tcKEg_AvV4oKRKsKilgDcWIERRzq_f-iWNwunf1pe6MzX-AAQA2tESqROImN7KYctk96ctkUhg8B9_VXUVsMFnvMGs8TwmRDrz2kkDc6H3RlnYUIEdcYYPCmknsmqwrP4aQEsRndiekIOEZKUNQjZeRyW78AvfMLw5egaOpjA-fdQWJKRKFCiQ9cYVGG-ToDmy-GfhLK2Y6WOGwr_fa1XXyapORD5IQvOJLt_XK1ibWve96fEaZ3tgkJaW5TIPVC8j_crtdPpLBh1iCZCFxGDiaxgDl-ic33SOdokJdyWyQiMeoI0sASpvP5gxSde79p-kcxb82Oe5Mdf-Zz3c78Dn5R4_askIr5BvJDZz-_QkcJT4nDExzr06FjxJsEzCQJ6XTuXUcd9BEHq3Xt491-NvlfAUrYUsUNakvieWzXQNrIpRktjoKCtvlLxXi52_ZHbSA7qbfwYKJ-UrRds6BZjQ2vxxSz4syBeawx7BkJn0kQLWx0qCybGhE0Innzt_TqQFelZq2wsA1JgseWrb1lUrlKrKCAAWLBLzRbt2Znq_3g37cVx_llbk5zBATeo-MnbkLaCdDfQy4FJQpL83WgQqqUjI8ulIN7cauIHD72mkBjB2QA4L9hLuVnlFLJqf-82I8QAWYJ-FlZFX0QrHQUfRb46GEPthH09mbjJbfM9GiHayxIexaaIGAcGsJCVoMzA3wcMMqBEenq27iwgVWGSeYV2IaDHS0fUi-LnEW34i2-CABKgl1cy13ZXN0LTIwqwo.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
