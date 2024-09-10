@@ -68,9 +68,9 @@ https://video-weaver.sin01.hls.live-video.net/v1/playlist/CuEFAbfJYyPIoQxWRfwzu9
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV 
-#EXTGRP:Variety #EXTVLCOPT:network-caching=1000 
-https://live.mana2.my/SukeTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV 
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2370000,BANDWIDTH=2960000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+tracks-v2a1/mono.m3u8?token=1725520032-b089a534615449e7a50fef594bf83324-0-34872570503d28efbceb26b23eb6b7a4&auth_key=1725520032-b089a534615449e7a50fef594bf83324-0-4f6794a48b41a346176d3815cea9bb2b
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png",TVS 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
