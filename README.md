@@ -775,14 +775,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",Arena Bola 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTVaR1E1T0RJdE5UZzNOQzAwWVRsbUxUazRNVEV0TXpkbFpXRXpPV1E0WmpVdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjQ4NzU4NCwiaWF0IjoxNzI1ODgzNTg0fQ.PsaUI_vHCB_qZ7JdbyCSEP3RDud7MfN8Z3fhK5GETrw"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",Arena Bola 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTVaR1E1T0RJdE5UZzNOQzAwWVRsbUxUazRNVEV0TXpkbFpXRXpPV1E0WmpVdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjQ4NzU4NCwiaWF0IjoxNzI1ODgzNTg0fQ.PsaUI_vHCB_qZ7JdbyCSEP3RDud7MfN8Z3fhK5GETrw"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
@@ -797,7 +797,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTVaR1E1T0RJdE5UZzNOQzAwWVRsbUxUazRNVEV0TXpkbFpXRXpPV1E0WmpVdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjQ4NzU4NCwiaWF0IjoxNzI1ODgzNTg0fQ.PsaUI_vHCB_qZ7JdbyCSEP3RDud7MfN8Z3fhK5GETrw"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
@@ -806,7 +806,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTVaR1E1T0RJdE5UZzNOQzAwWVRsbUxUazRNVEV0TXpkbFpXRXpPV1E0WmpVdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjQ4NzU4NCwiaWF0IjoxNzI1ODgzNTg0fQ.PsaUI_vHCB_qZ7JdbyCSEP3RDud7MfN8Z3fhK5GETrw"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
 http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
@@ -814,7 +814,7 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTVaR1E1T0RJdE5UZzNOQzAwWVRsbUxUazRNVEV0TXpkbFpXRXpPV1E0WmpVdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjQ4NzU4NCwiaWF0IjoxNzI1ODgzNTg0fQ.PsaUI_vHCB_qZ7JdbyCSEP3RDud7MfN8Z3fhK5GETrw"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
@@ -1013,6 +1013,40 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinema
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|referer=https://www.visionplus.id
+
+#EXTINF:-1 tvg-id="26492" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH NETFLIX ADVENTURE HD
+https://allinonereborn.com/jiobe1.m3u8?id=26492
+
+#EXTINF:-1 tvg-id="26569" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH NETFLIX ACTION CRIME HD
+https://allinonereborn.com/jiobe1.m3u8?id=26569
+
+#EXTINF:-1 tvg-id="26525" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH NETFLIX ACTION COMEDY HD
+https://allinonereborn.com/jiobe1.m3u8?id=26525
+
+#EXTINF:-1 tvg-id="26514" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH NETFLIX ACTION ADVENTURE 1 HD
+https://allinonereborn.com/jiobe1.m3u8?id=26514
+
+#EXTINF:-1 tvg-id="26580" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH NETFLIX ACTION HD
+https://allinonereborn.com/jiobe1.m3u8?id=26580
+
+#EXTINF:-1 tvg-id="25865" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH HBO MAX 2020-2022 CINEMA HD
+https://allinonereborn.com/jiobe1.m3u8?id=25865
+
+#EXTINF:-1 tvg-id="25898" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH HOLLYWOOD 2020-2022 CINEMA 3 HD
+https://allinonereborn.com/jiobe1.m3u8?id=25898
+
+#EXTINF:-1 tvg-id="25942" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH HOLLYWOOD 2020-2022 CINEMA 4 HD
+https://allinonereborn.com/jiobe1.m3u8?id=25942
+
+#EXTINF:-1 tvg-id="25920" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH HOLLYWOOD 2020-2022 CINEMA 5 HD
+https://allinonereborn.com/jiobe1.m3u8?id=25920
+
+#EXTINF:-1 tvg-id="25678" tvg-logo="" group-title="ENGLISH MOVIES 24/7", ENGLISH NETFLIX WAR HD
+https://allinonereborn.com/jiobe1.m3u8?id=25678
+
+#EXTINF:-1 tvg-id="SonyPix" ch-number="418" group-title="Movies" tvg-logo="https://i.ibb.co/TcLpjwD/logo.png",Sony Pix
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
