@@ -771,14 +771,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",Arena Bola 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTTVaRFU1T1RJdE1ESXpOaTAwTWprNExXRXhaamt0WmpGaE0yVmpORGRpTmpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjYyNTE1MSwiaWF0IjoxNzI2MDIxMTUxfQ.cnLK1yP6OCKq1wRxHvXPpt4oXm3JqaHnmmyGlp9_qFc"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",Arena Bola 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTTVaRFU1T1RJdE1ESXpOaTAwTWprNExXRXhaamt0WmpGaE0yVmpORGRpTmpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjYyNTE1MSwiaWF0IjoxNzI2MDIxMTUxfQ.cnLK1yP6OCKq1wRxHvXPpt4oXm3JqaHnmmyGlp9_qFc"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
@@ -793,7 +793,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTTVaRFU1T1RJdE1ESXpOaTAwTWprNExXRXhaamt0WmpGaE0yVmpORGRpTmpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjYyNTE1MSwiaWF0IjoxNzI2MDIxMTUxfQ.cnLK1yP6OCKq1wRxHvXPpt4oXm3JqaHnmmyGlp9_qFc"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
@@ -802,7 +802,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTTVaRFU1T1RJdE1ESXpOaTAwTWprNExXRXhaamt0WmpGaE0yVmpORGRpTmpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjYyNTE1MSwiaWF0IjoxNzI2MDIxMTUxfQ.cnLK1yP6OCKq1wRxHvXPpt4oXm3JqaHnmmyGlp9_qFc"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
 http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
@@ -810,7 +810,7 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqaG1Nek0wT1dVdE0yWXlNQzAwWkRrd0xUZzBaREF0TVRVeE5qbG1OVGMzTnpjeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjU2NzQ5MywiaWF0IjoxNzI1OTYzNDkzfQ.86H6AiETYYuIdvejlx6A7kNQZT33ZtAp9oFrP4Aj65g"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTTVaRFU1T1RJdE1ESXpOaTAwTWprNExXRXhaamt0WmpGaE0yVmpORGRpTmpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjYyNTE1MSwiaWF0IjoxNzI2MDIxMTUxfQ.cnLK1yP6OCKq1wRxHvXPpt4oXm3JqaHnmmyGlp9_qFc"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
@@ -928,30 +928,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 
-#EXTINF:-1 group-title="Sports ASTRO2" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
-
-#EXTINF:-1 group-title="Sports ASTRO2" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Supersport 2 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
-
-#EXTINF:-1 group-title="Sports ASTRO2" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
-
-#EXTINF:-1 group-title="Sports ASTRO2" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186390
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffc555c120261e93a09cedcc9ccb541c:28acbfe596ae377c78330c7e0034817f
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live10.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 2
 
 
 
