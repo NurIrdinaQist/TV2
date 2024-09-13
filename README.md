@@ -97,13 +97,12 @@ https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ9qVVv01DaVzIUGo
 #https://tv.jnda.tech/longtime/wtor9h/l.mpd
 
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key='0b65326aede3edbe81e6fb40317d5310':'8412f444ffbe350cf2ece051f9152e90'
+#KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310" :"8412f444ffbe350cf2ece051f9152e90"}
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 
@@ -116,13 +115,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key='aa2c653f0c05567ae283c4a3271a9810':'0a80e20c568e88e53c7087c1c6493318'
+#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/419ZKMQv5UhnrprpIKOVzMjXMU16b_3l3WfM83ywZne_c=2wcH/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=abc904f3-b545-462b-a1f7-25a2a66e3912
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key='84bf9ad6848be7db20f9d16823deef10':'654f2d25a5bfb27c9e5ae0852584a166'
+#KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
 https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41hDqEhOW_USoV-ye8RIWWZS9r89d-DE7478Z8ZcFUfGw=kgUJ/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=9e5c25ba-7988-4ac0-a07a-3dca87a45ec5";
 
 
