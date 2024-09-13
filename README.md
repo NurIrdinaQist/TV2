@@ -91,7 +91,7 @@ https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/index.m3u8|Referer=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key='3f726fd5cbbf5944437a4dbfab431b10':'376b009796e4ad50ea8f68d796676692'
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10" :"376b009796e4ad50ea8f68d796676692"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ9qVVv01DaVzIUGoadPpJHc=LCUM/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #https://tv.jnda.tech/longtime/wtor9h/l.mpd
