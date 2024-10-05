@@ -103,13 +103,12 @@ https://linears-playback.astro.com.my/vsg/41up2QELZ9PTbgmmbxT6cb4tbVzTHaF7R8d_k2
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://go.munzstore.xyz/riaz.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310" :"8412f444ffbe350cf2ece051f9152e90"}
-https://linears-playback.astro.com.my/vsg/41UIbbvNADubGd3OVb97Qyof1ZwMJM3ho_-71raCm54sE=gJ6w/dash-wv/jitp-dashisowm/1000/default.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 
