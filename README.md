@@ -93,7 +93,7 @@ https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=17280370
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10" :"376b009796e4ad50ea8f68d796676692"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/vsg/41up2QELZ9PTbgmmbxT6cb4tbVzTHaF7R8d_k24YEMVhc=HHXd/dash-wv/jitp-linearwm/1004/default.mpd
+https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ5lPOfow-2nyX1onGHIfPNs=KqY2/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
