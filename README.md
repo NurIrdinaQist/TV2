@@ -161,7 +161,7 @@ https://aqfadtv.xyz/live/warna/index.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
-https://tvmalaysialive.damnserver.com/token/citraz.html
+https://raw.githubusercontent.com/hpmurah2u/hpmurah2u.github.io-citra/refs/heads/main/index.html
 
 https://linears-playback.astro.com.my/vsg/41vWyIOXNXGbd0oZBt3cVeg2Y6YwMbF7R5UxrAOifXZt8=D_BK/dash-wv/jitp-dashisowm/2700/default.mpd
 
