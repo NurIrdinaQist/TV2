@@ -108,7 +108,7 @@ https://linears-playback.astro.com.my/vsg/41jvvsbHyqR-CedHSbuFktBDHfIrcjYnv12p6Q
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://go.munzstore.xyz/riaz.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -133,7 +133,7 @@ https://go.munzstore.xyz/primaz.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" } 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -150,7 +150,7 @@ https://linears-playback.astro.com.my/vsg/415jLahnpX_zgzSFTh7_1acEbEBcWo0mcPxJjo
 https://go.munzstore.xyz/warnaz.mpd
 
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
 https://linears-playback.astro.com.my/vsg/41IgP7UozpqvubXIFoK8Y7zY0WfG-N3kVxpMxWCDre5Mw=oRJg/dash-wv/jitp-linearwm/2700/default.mpd
@@ -556,15 +556,13 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStr
 #KODIPROP:inputstream.adaptive.license_key= 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png",MN+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png",MN+
 http://opplex.tv:8080//live/83212539/43153928/66244.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png",MNX 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png",MNX 
 http://opplex.tv:8080//live/83212539/43153928/66266.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png",Movies Now 
-http://xtv.ooo:8080/live/adnankb2006/86057314/109968.m3u8
-
 http://opplex.tv:8080//live/83212539/43153928/66271.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix
@@ -589,13 +587,9 @@ EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xpl
 https://jio.drmlive.au/jio/bpk-tv/And_Xplore_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies 
-http://filex.tv:8080/shakeelmirza/4110440/75
-
 http://opplex.tv:8080//live/83212539/43153928/66213.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
-http://filex.tv:8080/shakeelmirza/4110440/52225
-
 http://opplex.tv:8080//live/83212539/43153928/66315.m3u8
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png",Syfy 
