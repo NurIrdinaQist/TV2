@@ -328,7 +328,7 @@ EXTINF:0 tvg-logo="https://i.imgur.com/lISjGvS.png", Metro TV
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
 https://d1abp075u76pbq.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA 
+EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a 
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
