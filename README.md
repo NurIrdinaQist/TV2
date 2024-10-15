@@ -1004,4 +1004,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default_primary.mp
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg",ASTRO PRIMA
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
+
+#EXTINF:-1 tvg-id:"AstroPrima" ch-number="105" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", 105 Astro Prima
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type" :"Sementara" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://9nmy.short.gy/Kitrima.mpd
+
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
