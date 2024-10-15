@@ -88,13 +88,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10" :"376b009796e4ad50ea8f68d796676692"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/vsg/41jvvsbHyqR-CedHSbuFktBEYziB6N4Ak4monXVo-aYQY=ZWop/dash-wv/jitp-linearwm/1004/default.mpd
+https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ-g9c5KvJoQKU1HtTVT_q-E=TMTr/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
