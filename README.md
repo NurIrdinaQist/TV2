@@ -56,10 +56,10 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" } 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
 http://php.jdshipin.com:8880/xsj.php?id=awesometv
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
 https://video-weaver.tyo03.hls.live-video.net/v1/playlist/CrcFApCAJfldYyjOa_DEJWdNalNcjSI2qKfltn_2k_tu7ty_XaGehyrVH7LRe6FNhKHDxD2fXLP0ci3TlK1YzX_B49Z7QwNrwHdB_D2MM4FGqZTiESnuOI7sT9PbWXtvt_XsKc1W7iPhkd_ZYkjZmu3dFkcRlI5sR1ivWbq2_oRc_Aalk7d-UeZl4hbSSRJ6g38TJFbO02uE9v4EiuVAEOtzIdVnHvzjB_WM1pJX2IkimCjJB5dV8rp-nKbyh38Cbo6UBqKP8OJG6-NAZ3nEY7a18mlinkTp9ggW5wgCpmBA3716H-a0506AhsiTiXN2-6P6U23p-IhV8mFW4eQdcwgqMUB4auezhPztHSVP9pGMRVBoT0dN7utgGdgEFYROEd-PFPaX2jTKqcweoTQtBnEtF3LWJCka16ihej5cQmk4_uUxJJz-e8RPHiN7c1l3FIzmaMqCasbNuXiJBrNusLXtVwgMfwrQiwmLNmGSpCs9gN1zx6OA2BWMlrNSthe_-_eurvMWUuDO6TS-VBmG2nLBSnsc0CwWQU1jlYyVG4BcydILicfutS97tm0hGje637vUaaJCkoIJGUCBN7dOeBZSXc5rCreLxkR51Qj2ucbqXqoK1X0cvUh1cuLE5KV9CFbBoDA_DMLScO0a4CmNBfhwz3OQK7STSUBjpN0YaL9HhC_Wg8Y-5LOaETAgoH2mjis6h3iqcWIGbNbXwxa0bnaOIyCJxHGhbD9Dt0TxKE9KFJ_3F8SGNU30yFyE1Pd2ZsEiL1jmh3l_zxOOwrvMoO2k_EIt-exSiOxOomiLyi_tqkFFHZ6dCa5Cw3oYsv9mXBZI1OV3JJpNyJTZ7Zh00nQHmmGHkmk0VVvcC2M3FKQ2s29u9dEwDFCzv9txw2t1QPOpQexlQDn3mZrYdN00Q3kpYAjvUluc1hQaDKh53AP40_JPm2tIpCABKgl1cy13ZXN0LTIwygo.m3u8
 
 
@@ -89,7 +89,7 @@ EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
 https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1728037008~hmac=5ebde50930e20a392777a12aab891563257c73846dd07d5c6038eccb4ee25bdd
 https://tinyurl.com/23hnfej4
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -539,6 +539,10 @@ http://168.181.122.234:8000/play/a02s/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png",Paramount Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://tinyurl.com/48evxduj
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
