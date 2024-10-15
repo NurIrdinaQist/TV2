@@ -585,6 +585,9 @@ http://opplex.tv:8080//live/83212539/43153928/66271.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix
 http://opplex.tv:8080//live/83212539/43153928/66224.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix
+https://raw.githubusercontent.com/aufannada/streaming/main/sonypix.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies 
 http://opplex.tv:8080//live/83212539/43153928/66213.m3u8
 
