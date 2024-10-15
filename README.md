@@ -157,11 +157,13 @@ https://tinyurl.com/yckjtuhf
 https://linears-playback.astro.com.my/vsg/415jLahnpX_zgzSFTh7_1acBNKY61qvB2uK9tZDJUx5e4=Pz1v/dash-wv/jitp-linearwm/2402/default.mpd
 
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
+http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/1706
+
 https://go.munzstore.xyz/warnaz.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
