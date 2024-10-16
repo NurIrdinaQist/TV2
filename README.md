@@ -844,7 +844,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",Arena Bola 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tUTROelJrTXprdE9USTBaaTAwTWpRMUxXRTBabUV0WVRKbE5UZGhaV05sWkRJeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTY0OTA5NiwiaWF0IjoxNzI5MDQ1MDk2fQ.9xvDlD4CGF3-Q2OjS6SjOJoFxz9lp_Cy-wKgqezKNI4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }  
@@ -852,7 +852,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",Arena Bola 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tUTROelJrTXprdE9USTBaaTAwTWpRMUxXRTBabUV0WVRKbE5UZGhaV05sWkRJeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTY0OTA5NiwiaWF0IjoxNzI5MDQ1MDk2fQ.9xvDlD4CGF3-Q2OjS6SjOJoFxz9lp_Cy-wKgqezKNI4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" } 
@@ -860,7 +860,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tUTROelJrTXprdE9USTBaaTAwTWpRMUxXRTBabUV0WVRKbE5UZGhaV05sWkRJeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTY0OTA5NiwiaWF0IjoxNzI5MDQ1MDk2fQ.9xvDlD4CGF3-Q2OjS6SjOJoFxz9lp_Cy-wKgqezKNI4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
@@ -868,7 +868,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",ASSP2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tUTROelJrTXprdE9USTBaaTAwTWpRMUxXRTBabUV0WVRKbE5UZGhaV05sWkRJeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTY0OTA5NiwiaWF0IjoxNzI5MDQ1MDk2fQ.9xvDlD4CGF3-Q2OjS6SjOJoFxz9lp_Cy-wKgqezKNI4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
@@ -876,7 +876,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSSP3 HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tUTROelJrTXprdE9USTBaaTAwTWpRMUxXRTBabUV0WVRKbE5UZGhaV05sWkRJeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTY0OTA5NiwiaWF0IjoxNzI5MDQ1MDk2fQ.9xvDlD4CGF3-Q2OjS6SjOJoFxz9lp_Cy-wKgqezKNI4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
