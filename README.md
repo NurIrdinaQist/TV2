@@ -78,11 +78,6 @@ https://raw.githubusercontent.com/MadRidz69/arbi/ad00b8c349ac993477b9cfdc66126a9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png",Heroes 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5114/ 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default.mpd
-
 EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
@@ -119,15 +114,6 @@ https://go.munzstore.xyz/malaria.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41j1-c_4w-UgLoYDcSn-S6DOTxU8p4IIIgQP7zpqmoBUQ=dCYX/dash-wv/jitp-linearwm/1000/default.mpd
-
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 https://linears-playback.astro.com.my/vsg/41j1-c_4w-UgLoYDcSn-S6DKTMnhUS3c-mJnYUMXjTxfE=9Sdn/dash-wv/jitp-linearwm/1000/default.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
@@ -150,14 +136,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/vsg/415jLahnpX_zgzSFTh7_1acBNKY61qvB2uK9tZDJUx5e4=Pz1v/dash-wv/jitp-linearwm/2402/default.mpd
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linears-playback.astro.com.my/vsg/415jLahnpX_zgzSFTh7_1acCwrBeC6JcA2o_ZAz17Q6rE=ibr-/dash-wv/jitp-linearwm/2402/default.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
@@ -172,14 +150,14 @@ https://go.munzstore.xyz/shawarma.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
-https://go.munzstore.xyz/citrarasa.mpd
+https://linears-playback.astro.com.my/vsg/41IgP7UozpqvubXIFoK8Y7zWbs16ciNdZfkqUwmk1C9UU=6AQ5/dash-wv/jitp-linearwm/2700/default.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
-https://linears-playback.astro.com.my/vsg/41IgP7UozpqvubXIFoK8Y7zWbs16ciNdZfkqUwmk1C9UU=6AQ5/dash-wv/jitp-linearwm/2700/default.mpd
+https://go.munzstore.xyz/citrarasa.mpd
 
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" ,Kita 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -258,7 +236,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 
-#EXTINF:-1  tvg-id="116" group-title="Unifi TV" tvg-logo="https://i.ibb.co/Zm25L8D/Unifi-Sensasi.png",Sensasi
+EXTINF:-1  tvg-logo="https://i.ibb.co/Zm25L8D/Unifi-Sensasi.png",Sensasi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZmIzYjcyYTQtOGMwOS0zMzU0LTlkZDMtZTQ0NmMxMDBlOGQw
 https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=1gxIuS0rCX3%2FTF0Cl%2B0SW%2BzrQFqq54AY0ZlnZsRycPBBrE%2FwDFOjTVzQIC6qKVH5VU27YPjMkTNcwqfuxhHicfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20241002024926%3AUTC%2C1005926113%2C210.195.126.165%2C20241002024926%2Curn:Huawei:liveTV:SP000004015718%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C757392009%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY-CMBhE_02PDS1F4NCTxmSTDZrI7tUM7UclFKotmuy_X9nV68y8yVsiDH3stDCdKa0CVAclTA8r-66ocmSFquu6YIluTdCSGXg_zK4JdsW-T9uzyHjGpRRcVaxd7_Ye7rVs7lNHUYs3dqL4GAxpm3r-QOJwLpLDMoSZHz1-vqJ_TRi1b7VSllVeqk1d5BVb1rRFGp8NuyBtw3RFJPsZ3B-ge_hE7AozwlGDifR89_6fO0T7tPkFAwV9rvQAAAA&tenantId=6001
@@ -1012,74 +990,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
-http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=029bb428137bfaf0509d64419c01c5fd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
-http://50.7.234.10:8278/Ria49/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f382187a683c7ba2f768f9ed4a654732
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
-http://50.7.234.10:8278/Ria_quanjia/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=acfc6ebbba0856653852c53285853625
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
-http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5f6516ffccb5907ca205b12bdc7ff6ef
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
-http://50.7.234.10:8278/Ria49/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=64ada2009698fe228eccf08c4bff2157
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
-http://50.7.234.10:8278/Ria_quanjia/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a85951d75054cf9b117aa2f16107895e
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
-http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6a1bcd26d6476b20d7567d9da1e14c47
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
-http://50.7.234.10:8278/Prima49/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=53f15f81302a0dd4c01566e60e450876
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
-http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8d50adae071d1fc0e37af6bb7d69e895
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
-http://50.7.234.10:8278/Prima49/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=113db8e6235948b4ecf08c62936ab6a1
-
-
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
-http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0c1495a5518beb73a9aa05ac2ee06870
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
-http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7807e06265d4e2db9fe524aa5da60d11
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
-http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=86d24c67ba0cc5a260cf7e51f16fdb81
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
-http://50.7.234.10:8278/Warna/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3b80042009b1f0e8e25ce5fca11b9888
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
-http://50.7.234.10:8278/Citra/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7bc01a3c8103e1f2f2b3c3b9a08cb0ad
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
-http://50.7.234.10:8278/Citra/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8961c9d590969de8c01ac960ac289697
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="" group-title="MOVIE",Citra 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="105.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="" group-title="LIFESTYLE ",Prima
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="104.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="" group-title="SERIES",Ria 
-https://tvmalaysialive.damnserver.com/live.html
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="107.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-logo="" group-title="COMEDY",Warna 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
 
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
