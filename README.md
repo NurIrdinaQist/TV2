@@ -1017,4 +1017,18 @@ http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=12481&deviceMac=00:1A:79:6C:2
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2D5KtbdSJbpPdcIxlAAZ5oulF47JoYdeDePmKebxAMCBEiLvpCXkxCA&s=10",Hollywood Movies
 https://movies.nexg.tv/movie-h/movie-h.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Warna-640x358.png" ,WARNA
+http://vo01.mohdtv.com:8880/voby5324/62119828/1706
+
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Ria-TV-640x358.png" ,RIA
+http://vo01.mohdtv.com:8880/voby5324/62119828/1705
+
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png" ,Ria
+http://vo01.mohdtv.com:8880/voby5324/62119828/71020
+
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png" ,PRIMA
+http://vo01.mohdtv.com:8880/voby5324/62119828/1702
+
+
+
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
