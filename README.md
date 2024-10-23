@@ -89,8 +89,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Ref
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10" :"376b009796e4ad50ea8f68d796676692"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://go.munzstore.xyz/malaria.mpd
-https://linears-playback.astro.com.my/vsg/41j1-c_4w-UgLoYDcSn-S6DKTMnhUS3c-mJnYUMXjTxfE=9Sdn/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ3yAtfRA4ZDH8hQ11uD7GKw=4dbW/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
