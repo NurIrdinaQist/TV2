@@ -835,7 +835,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXRmtZVFZoWTJVdE0yRTVOeTAwWXprekxXSmxORGN0T0RKak9URTVPVFJsTVRsaCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDQyODkyMiwiaWF0IjoxNzI5ODI0OTIyfQ.N1BJF_u0LMBaLwDBfDycLtCe-PdIXg2pLjK3nfiHKSI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56RmhaR1ZoTjJFdE5XUTFNaTAwWVRFeUxUbG1aVFl0WXpaaE0yTXlabUZoTldNMSIsIndtb3BpZCI6MzIsImV4cCI6MTczMDY4OTk3NiwiaWF0IjoxNzMwMDg1OTc2fQ.pbTjivIwrt2pGzUMjUFvgp7NVN6nAstwh8QKOKz_fQw"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }  
@@ -843,7 +843,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXRmtZVFZoWTJVdE0yRTVOeTAwWXprekxXSmxORGN0T0RKak9URTVPVFJsTVRsaCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDQyODkyMiwiaWF0IjoxNzI5ODI0OTIyfQ.N1BJF_u0LMBaLwDBfDycLtCe-PdIXg2pLjK3nfiHKSI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56RmhaR1ZoTjJFdE5XUTFNaTAwWVRFeUxUbG1aVFl0WXpaaE0yTXlabUZoTldNMSIsIndtb3BpZCI6MzIsImV4cCI6MTczMDY4OTk3NiwiaWF0IjoxNzMwMDg1OTc2fQ.pbTjivIwrt2pGzUMjUFvgp7NVN6nAstwh8QKOKz_fQw"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" } 
@@ -856,7 +856,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXRmtZVFZoWTJVdE0yRTVOeTAwWXprekxXSmxORGN0T0RKak9URTVPVFJsTVRsaCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDQyODkyMiwiaWF0IjoxNzI5ODI0OTIyfQ.N1BJF_u0LMBaLwDBfDycLtCe-PdIXg2pLjK3nfiHKSI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56RmhaR1ZoTjJFdE5XUTFNaTAwWVRFeUxUbG1aVFl0WXpaaE0yTXlabUZoTldNMSIsIndtb3BpZCI6MzIsImV4cCI6MTczMDY4OTk3NiwiaWF0IjoxNzMwMDg1OTc2fQ.pbTjivIwrt2pGzUMjUFvgp7NVN6nAstwh8QKOKz_fQw"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
@@ -864,7 +864,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXRmtZVFZoWTJVdE0yRTVOeTAwWXprekxXSmxORGN0T0RKak9URTVPVFJsTVRsaCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDQyODkyMiwiaWF0IjoxNzI5ODI0OTIyfQ.N1BJF_u0LMBaLwDBfDycLtCe-PdIXg2pLjK3nfiHKSI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56RmhaR1ZoTjJFdE5XUTFNaTAwWVRFeUxUbG1aVFl0WXpaaE0yTXlabUZoTldNMSIsIndtb3BpZCI6MzIsImV4cCI6MTczMDY4OTk3NiwiaWF0IjoxNzMwMDg1OTc2fQ.pbTjivIwrt2pGzUMjUFvgp7NVN6nAstwh8QKOKz_fQw"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
@@ -872,7 +872,7 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXRmtZVFZoWTJVdE0yRTVOeTAwWXprekxXSmxORGN0T0RKak9URTVPVFJsTVRsaCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDQyODkyMiwiaWF0IjoxNzI5ODI0OTIyfQ.N1BJF_u0LMBaLwDBfDycLtCe-PdIXg2pLjK3nfiHKSI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56RmhaR1ZoTjJFdE5XUTFNaTAwWVRFeUxUbG1aVFl0WXpaaE0yTXlabUZoTldNMSIsIndtb3BpZCI6MzIsImV4cCI6MTczMDY4OTk3NiwiaWF0IjoxNzMwMDg1OTc2fQ.pbTjivIwrt2pGzUMjUFvgp7NVN6nAstwh8QKOKz_fQw"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
