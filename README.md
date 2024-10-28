@@ -1027,4 +1027,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
 
+#EXTINF:-1 tvg-id="Prima.my" tvg-name="Astro prima(C)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="MALAYSIA",Astro prima(C)
+http://iptv12k.com:35461/m241002928762939/111111/5958
+#EXTINF:-1 tvg-id="Warna.my" tvg-name="WARNA(a)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",WARNA(a)
+http://iptv12k.com:35461/m241002928762939/111111/5075
+#EXTINF:-1 tvg-id="Warna.my" tvg-name="WARNA(b)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",WARNA(b)
+http://iptv12k.com:35461/m241002928762939/111111/5074
+#EXTINF:-1 tvg-id="Warna.my" tvg-name="ASTRO Warna(c)" tvg-logo="https://i.loli.net/2021/10/05/7QbR3qYUgmlxzwn.jpg" group-title="MALAYSIA",ASTRO Warna(c)
+http://iptv12k.com:35461/m241002928762939/111111/733
+#EXTINF:-1 tvg-id="" tvg-name="Warna(d)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",Warna(d)
+http://iptv12k.com:35461/m241002928762939/111111/212
+#EXTINF:-1 tvg-id="" tvg-name="Warna(e)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",Warna(e)
+http://iptv12k.com:35461/m241002928762939/111111/9169
+#EXTINF:-1 tvg-id="Warna.my" tvg-name="Warna(f)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",Warna(f)
+http://iptv12k.com:35461/m241002928762939/111111/4313
+
+
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
