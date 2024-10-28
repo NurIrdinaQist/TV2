@@ -1062,4 +1062,19 @@ http://iptv12k.com:35461/m241002928762939/111111/9169
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 http://iptv12k.com:35461/m241002928762939/111111/4313
 
+
+ASTRO Ria(a) my2,http://iptv12k.com:35461/test163/123456011/13636
+ASTRO Ria(b) my2,http://iptv12k.com:35461/test163/123456011/13635
+ASTRO RIA(c) my2 backup,http://iptv12k.com:35461/test163/123456011/13634
+Ria(d)ASTRO my2,http://iptv12k.com:35461/test163/123456011/13633
+ASTRO Prima (a)  my2,http://iptv12k.com:35461/test163/123456011/13632
+Astro prima(B) my2,http://iptv12k.com:35461/test163/123456011/13631
+Astro prima(C) my2,http://iptv12k.com:35461/test163/123456011/13630
+WARNA(a) my2,http://iptv12k.com:35461/test163/123456011/13629
+WARNA(b) my2,http://iptv12k.com:35461/test163/123456011/13628
+ASTRO Warna(c) my2,http://iptv12k.com:35461/test163/123456011/13627
+Warna(d) my2,http://iptv12k.com:35461/test163/123456011/13626
+Warna(e) my2,http://iptv12k.com:35461/test163/123456011/13625
+Warna(f) my2,http://iptv12k.com:35461/test163/123456011/13624
+
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
