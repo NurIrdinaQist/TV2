@@ -815,11 +815,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/32
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wx746KwRObmFrDZzACtwFA", "kid":"NLgxqXRQHRBvZUXp+T3gEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="800.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="FHD",Astro Arena 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",Astro Arena
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
@@ -1020,27 +1015,51 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTINF:-1 ch-number="809" tvg-id="ASSPPlus" group-title="PREMIER LEAGUE EXTRA"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/171_144.png",Astro Live Mix
+EXTINF:-1 ch-number="809" tvg-id="ASSPPlus" group-title="PREMIER LEAGUE EXTRA"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/171_144.png",Astro Live Mix
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
 
-#EXTINF:-1 tvg-id="Prima.my" tvg-name="Astro prima(C)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="MALAYSIA",Astro prima(C)
-http://iptv12k.com:35461/m241002928762939/111111/5958
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="WARNA(a)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",WARNA(a)
-http://iptv12k.com:35461/m241002928762939/111111/5075
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="WARNA(b)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",WARNA(b)
-http://iptv12k.com:35461/m241002928762939/111111/5074
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="ASTRO Warna(c)" tvg-logo="https://i.loli.net/2021/10/05/7QbR3qYUgmlxzwn.jpg" group-title="MALAYSIA",ASTRO Warna(c)
-http://iptv12k.com:35461/m241002928762939/111111/733
-#EXTINF:-1 tvg-id="" tvg-name="Warna(d)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",Warna(d)
-http://iptv12k.com:35461/m241002928762939/111111/212
-#EXTINF:-1 tvg-id="" tvg-name="Warna(e)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",Warna(e)
-http://iptv12k.com:35461/m241002928762939/111111/9169
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="Warna(f)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="MALAYSIA",Warna(f)
-http://iptv12k.com:35461/m241002928762939/111111/4313
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
+http://iptv12k.com:35461/m241002928762939/111111/735
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
+http://iptv12k.com:35461/m241002928762939/111111/4354
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
+http://iptv12k.com:35461/m241002928762939/111111/4353
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD
+http://iptv12k.com:35461/m241002928762939/111111/10838
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
+http://iptv12k.com:35461/m241002928762939/111111/734
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
+http://iptv12k.com:35461/m241002928762939/111111/5959
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD 
+http://iptv12k.com:35461/m241002928762939/111111/5958
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+http://iptv12k.com:35461/m241002928762939/111111/5075
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+http://iptv12k.com:35461/m241002928762939/111111/5074
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+http://iptv12k.com:35461/m241002928762939/111111/733
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+http://iptv12k.com:35461/m241002928762939/111111/212
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+http://iptv12k.com:35461/m241002928762939/111111/9169
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+http://iptv12k.com:35461/m241002928762939/111111/4313
 
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
