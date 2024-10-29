@@ -855,7 +855,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="814.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-logo="" group-title="FHD",Astro Football
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",Astro Football
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
