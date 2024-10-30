@@ -1026,4 +1026,44 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Ria
+http://iptv12k.com:35461/m241002928762939/111111/735
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Ria
+http://iptv12k.com:35461/m241002928762939/111111/4354
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Ria
+http://iptv12k.com:35461/m241002928762939/111111/4353
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Ria
+http://iptv12k.com:35461/m241002928762939/111111/10838
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png"Prima
+http://iptv12k.com:35461/m241002928762939/111111/734
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png"Prima
+http://iptv12k.com:35461/m241002928762939/111111/5959
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png"Prima
+http://iptv12k.com:35461/m241002928762939/111111/5958
+
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
+http://iptv12k.com:35461/m241002928762939/111111/5075
+
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
+http://iptv12k.com:35461/m241002928762939/111111/5074
+
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
+http://iptv12k.com:35461/m241002928762939/111111/733
+
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
+http://iptv12k.com:35461/m241002928762939/111111/212
+
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
+http://iptv12k.com:35461/m241002928762939/111111/9169
+
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
+http://iptv12k.com:35461/m241002928762939/111111/4313
+
+
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
