@@ -110,7 +110,7 @@ http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0b65326aede3edbe81e6fb40317d5310", "kid":"8412f444ffbe350cf2ece051f9152e90" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310":"8412f444ffbe350cf2ece051f9152e90"}
 https://linears-playback.astro.com.my/vsg/41h1DQBjbFgu0nOgnV1pS6y6QlQ8QAU-oxdIloArLiri4=TVxB/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",OASIS HD
