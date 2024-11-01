@@ -861,6 +861,14 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Arena Bola 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Arena Bola 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+https://arenabola2.astradamy.com/dash-wv/jitp-linearwm/5100/default.mpd
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",Astro Football
