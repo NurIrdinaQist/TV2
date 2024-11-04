@@ -838,54 +838,48 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",Astro Arena 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Arena Bola
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1ERTROVFkzTlRZdFlqazVOQzAwTnprNExXRm1NVEl0TURReE4yUXlPVGc1WkdZMCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDg2MDczNywiaWF0IjoxNzMwMjU2NzM3fQ.CpJNGhDUUU9raz3ydSRppkAhbzxhP8s54ZfFKR0Lp0Y"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56Y3pNalE0WVdFdFpqWTNZeTAwWWpVMExXRTRaakV0WWpRd05EZ3dabUZoTXpJNCIsIndtb3BpZCI6MzIsImV4cCI6MTczMTAyNDA3NiwiaWF0IjoxNzMwNDIwMDc2fQ.dxgjPVLuXVCVivKmBTq5Wd8-KLyTpoUvJZBMRswAZ4A"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }  
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Arena Bola
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Arena Bola
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Arena Bola
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
 http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Arena Bola 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1ERTROVFkzTlRZdFlqazVOQzAwTnprNExXRm1NVEl0TURReE4yUXlPVGc1WkdZMCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDg2MDczNywiaWF0IjoxNzMwMjU2NzM3fQ.CpJNGhDUUU9raz3ydSRppkAhbzxhP8s54ZfFKR0Lp0Y"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56Y3pNalE0WVdFdFpqWTNZeTAwWWpVMExXRTRaakV0WWpRd05EZ3dabUZoTXpJNCIsIndtb3BpZCI6MzIsImV4cCI6MTczMTAyNDA3NiwiaWF0IjoxNzMwNDIwMDc2fQ.dxgjPVLuXVCVivKmBTq5Wd8-KLyTpoUvJZBMRswAZ4A"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" } 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Arena Bola 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Arena Bola 2
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Arena Bola 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"se/6nlHPOLOuZ2vCZJN++w", "kid":"Yqe3kXqtUSPNTfZcVhxwEA" } ], "type":"temporary" }
 http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
 
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",Astro Badminton
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",Astro Badminton
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png",Astro Badminton 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F8Ga1nClV+aIJBnWkj+tJw", "kid":"cq1uqhkEVAE4SH//o61lEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png",Astro Badminton 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",Astro Football
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png",Astro Grandstand
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1ERTROVFkzTlRZdFlqazVOQzAwTnprNExXRm1NVEl0TURReE4yUXlPVGc1WkdZMCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDg2MDczNywiaWF0IjoxNzMwMjU2NzM3fQ.CpJNGhDUUU9raz3ydSRppkAhbzxhP8s54ZfFKR0Lp0Y"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56Y3pNalE0WVdFdFpqWTNZeTAwWWpVMExXRTRaakV0WWpRd05EZ3dabUZoTXpJNCIsIndtb3BpZCI6MzIsImV4cCI6MTczMTAyNDA3NiwiaWF0IjoxNzMwNDIwMDc2fQ.dxgjPVLuXVCVivKmBTq5Wd8-KLyTpoUvJZBMRswAZ4A"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png",Astro Grandstand
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -894,13 +888,17 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277975&extension=ts
 http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",Astro Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1ERTROVFkzTlRZdFlqazVOQzAwTnprNExXRm1NVEl0TURReE4yUXlPVGc1WkdZMCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDg2MDczNywiaWF0IjoxNzMwMjU2NzM3fQ.CpJNGhDUUU9raz3ydSRppkAhbzxhP8s54ZfFKR0Lp0Y"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56Y3pNalE0WVdFdFpqWTNZeTAwWWpVMExXRTRaakV0WWpRd05EZ3dabUZoTXpJNCIsIndtb3BpZCI6MzIsImV4cCI6MTczMTAyNDA3NiwiaWF0IjoxNzMwNDIwMDc2fQ.dxgjPVLuXVCVivKmBTq5Wd8-KLyTpoUvJZBMRswAZ4A"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -909,12 +907,12 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277973&extension=ts
 http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1ERTROVFkzTlRZdFlqazVOQzAwTnprNExXRm1NVEl0TURReE4yUXlPVGc1WkdZMCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDg2MDczNywiaWF0IjoxNzMwMjU2NzM3fQ.CpJNGhDUUU9raz3ydSRppkAhbzxhP8s54ZfFKR0Lp0Y"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56Y3pNalE0WVdFdFpqWTNZeTAwWWpVMExXRTRaakV0WWpRd05EZ3dabUZoTXpJNCIsIndtb3BpZCI6MzIsImV4cCI6MTczMTAyNDA3NiwiaWF0IjoxNzMwNDIwMDc2fQ.dxgjPVLuXVCVivKmBTq5Wd8-KLyTpoUvJZBMRswAZ4A"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -947,7 +945,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXRmtZVFZoWTJVdE0yRTVOeTAwWXprekxXSmxORGN0T0RKak9URTVPVFJsTVRsaCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDQyODkyMiwiaWF0IjoxNzI5ODI0OTIyfQ.N1BJF_u0LMBaLwDBfDycLtCe-PdIXg2pLjK3nfiHKSI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56Y3pNalE0WVdFdFpqWTNZeTAwWWpVMExXRTRaakV0WWpRd05EZ3dabUZoTXpJNCIsIndtb3BpZCI6MzIsImV4cCI6MTczMTAyNDA3NiwiaWF0IjoxNzMwNDIwMDc2fQ.dxgjPVLuXVCVivKmBTq5Wd8-KLyTpoUvJZBMRswAZ4A"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WcllzrtbniMpcIa+VhBooA", "kid":"GhAZKH43Q3mqtelBRkoMIA" } ], "type":"temporary" }
@@ -1059,46 +1057,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Ria
-http://iptv12k.com:35461/m241002928762939/111111/735
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Ria
-http://iptv12k.com:35461/m241002928762939/111111/4354
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Ria
-http://iptv12k.com:35461/m241002928762939/111111/4353
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Ria
-http://iptv12k.com:35461/m241002928762939/111111/10838
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png"Prima
-http://iptv12k.com:35461/m241002928762939/111111/734
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png"Prima
-http://iptv12k.com:35461/m241002928762939/111111/5959
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png"Prima
-http://iptv12k.com:35461/m241002928762939/111111/5958
-
-#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
-http://iptv12k.com:35461/m241002928762939/111111/5075
-
-#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
-http://iptv12k.com:35461/m241002928762939/111111/5074
-
-#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
-http://iptv12k.com:35461/m241002928762939/111111/733
-
-#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
-http://iptv12k.com:35461/m241002928762939/111111/212
-
-#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
-http://iptv12k.com:35461/m241002928762939/111111/9169
-
-#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png",Warna
-http://iptv12k.com:35461/m241002928762939/111111/4313
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
