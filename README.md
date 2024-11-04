@@ -568,30 +568,34 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStr
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png",MN+
+http://ktv.im:8080/72618189119/16171761516/86058
 http://opplex.tv:8080//live/83212539/43153928/66244.m3u8
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png",MNX 
+http://ktv.im:8080/72618189119/16171761516/86079
 http://opplex.tv:8080//live/83212539/43153928/66266.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png",Movies Now 
+http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=14505&deviceMac=00:1A:79:A7:53:75
 http://opplex.tv:8080//live/83212539/43153928/66271.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 http://119.156.26.155:8000/play/a07d/index.m3u8
 http://opplex.tv:8080//live/83212539/43153928/66224.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix
-https://raw.githubusercontent.com/aufannada/streaming/main/sonypix.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies 
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=14505&deviceMac=00:1A:79:A7:53:75
 http://119.156.26.155:8000/play/a06p/index.m3u8
 http://opplex.tv:8080//live/83212539/43153928/66213.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
+http://opplextv.cyou:8080/258036/258036/66315
 http://119.156.26.155:8000/play/a06q/index.m3u8
 http://opplex.tv:8080//live/83212539/43153928/66315.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png",&flix
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=14505&deviceMac=00:1A:79:A7:53:75
 http://119.156.26.155:8000/play/a06x/index.m3u8
 http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
 
@@ -601,14 +605,6 @@ http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 
 EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&Xplore HD
 https://jio.drmlive.au/jio/bpk-tv/And_Xplore_HD_MOB/Fallback/index.m3u8
-
-
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png",Syfy 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DQ31GJJWwL8ywM0JdrrFvQ", "kid":"leweJugMOCWKMBAdBsjL9w" } ] "type":"temporary" } 
-https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
-
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
