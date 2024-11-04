@@ -884,8 +884,7 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png",Astro Grandstand 
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277975&extension=ts
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png",Astro Grandstand 
 http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",Astro Football
@@ -903,8 +902,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League 
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277973&extension=ts
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League 
 http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2
@@ -917,8 +915,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2 
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277974&extension=ts
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2 
 http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
