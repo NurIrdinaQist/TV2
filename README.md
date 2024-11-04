@@ -840,16 +840,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",Astro Arena 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",Astro Badminton
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F8Ga1nClV+aIJBnWkj+tJw", "kid":"cq1uqhkEVAE4SH//o61lEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png",Astro Badminton 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1ERTROVFkzTlRZdFlqazVOQzAwTnprNExXRm1NVEl0TURReE4yUXlPVGc1WkdZMCIsIndtb3BpZCI6MzIsImV4cCI6MTczMDg2MDczNywiaWF0IjoxNzMwMjU2NzM3fQ.CpJNGhDUUU9raz3ydSRppkAhbzxhP8s54ZfFKR0Lp0Y"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -877,6 +867,15 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",Astro Badminton
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F8Ga1nClV+aIJBnWkj+tJw", "kid":"cq1uqhkEVAE4SH//o61lEA" } ], "type":"temporary" }
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png",Astro Badminton 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
@@ -894,6 +893,7 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png",Astro Grandstand 
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277975&extension=ts
 http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
 
 
@@ -908,6 +908,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League 
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277973&extension=ts
 http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -921,6 +922,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2 
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277974&extension=ts
 http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
