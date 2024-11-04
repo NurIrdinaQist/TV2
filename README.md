@@ -181,10 +181,12 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria 
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EVNYahpFPgNAJxSimZZFZA", "kid":"EiyEvBMJQFhslhuuZSs2EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png",LOL 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_primary.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png",LOL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"46f124209392f3db564ade5ecfff1d10":"b6485da0ff018c4d758520865c19a598"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5168/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
