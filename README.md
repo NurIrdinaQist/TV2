@@ -98,7 +98,7 @@ https://linears-playback.astro.com.my/vsg/4194i7OzEgOX1_6BpBbVPA65hgwldrjvlD51E4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://d1eimxwxeji8bg.cloudfront.net/ria.mpd
+http://d1eimxwxeji8bg.cloudfront.net/prima.mpd
 https://link.zozotv.xyz:443/mubaen/k895427/34
 http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 
