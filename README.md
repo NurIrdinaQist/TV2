@@ -94,10 +94,11 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Ref
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linears-playback.astro.com.my/vsg/4194i7OzEgOX1_6BpBbVPA65hgwldrjvlD51E4nouLSXg=j5xQ/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://d1eimxwxeji8bg.cloudfront.net/ria.mpd
 https://link.zozotv.xyz:443/mubaen/k895427/34
 http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 
