@@ -59,10 +59,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
 http://php.jdshipin.com:8880/xsj.php?id=awesometv
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f84fbe826d15755ef91ebcab67c57d10", "kid":"6a136b65d2d45699cb1e98506dfa1bee" } ], "type":"temporary" } 
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png",Okey 
