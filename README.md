@@ -919,10 +919,39 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="🎬 PACK PREMIUM UNIVERSAL Y HBO", HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
+https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo.png" group-title="🎬 PACK PREMIUM UNIVERSAL Y HBO", HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvgZ0B2Xpw1S1benKd0HCqTBAskS3DqdBiw&s" group-title="🎬 PACK PREMIUM UNIVERSAL Y HBO", HBO PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj" group-title="🎬 CINE Y SERIES", RAKUTEN ACCION
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj" group-title="🎬 CINE Y SERIES", RAKUTEN FAMILY
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj" group-title="🎬 CINE Y SERIES", RAKUTEN TOPFREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="🎬 CINE Y SERIES", SONY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
+https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmHsJgrZlVlrh50uYsFa6rGXf2VtbcdX-PA&s" group-title="🎬 CINE Y SERIES", PARAMOUNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
+https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd
 
 
 
