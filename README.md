@@ -127,9 +127,8 @@ https://cdnatv.mirack.tv/Atv/tracks-v1a1/mono.m3u8
 
 
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV 
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2370000,BANDWIDTH=2960000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://raw.githubusercontent.com/MadRidz69/arbi/ad00b8c349ac993477b9cfdc66126a939ada8abd/sukeketaksuketetapsuka.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV 
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1732111727-9a7a1df81e36478787cfba9ba46267ad-0-3fbbcb00a1dba2cd1eb28bc574ab4ed2&token=1732111727-9a7a1df81e36478787cfba9ba46267ad-0-3fbbcb00a1dba2cd1eb28bc574ab4ed2
 
 
 
