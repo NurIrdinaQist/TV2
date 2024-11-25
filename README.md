@@ -66,7 +66,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",RIA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"376b009796e4ad50ea8f68d796676692", "kid":"3f726fd5cbbf5944437a4dbfab431b10" } ], "type":"temporary" }
 https://linears-playback.astro.com.my/vsg/41azGRHjk15w3fF5sRfpfp5v1-T1bALs1mDLTqG-wjCcA=01w1/dash-wv/jitp-linearwm/1004/default_primary.mpd
