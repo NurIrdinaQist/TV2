@@ -71,7 +71,7 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.pn
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"376b009796e4ad50ea8f68d796676692", "kid":"3f726fd5cbbf5944437a4dbfab431b10" } ], "type":"temporary" }
 https://linears-playback.astro.com.my/vsg/41azGRHjk15w3fF5sRfpfp5v1-T1bALs1mDLTqG-wjCcA=01w1/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
-#EXTINF:-1 ch-number="105" tvg-logo="https://raw.githubusercontent.com/Fivesal/L060/refs/heads/main/prima.png",PRIMA HD
+#EXTINF:-1 ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
