@@ -64,7 +64,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #EXTINF:-1 ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
+http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -75,6 +75,8 @@ https://linears-playback.astro.com.my/vsg/41azGRHjk15w3fF5sRfpfp5v1-T1bALs1mDLTq
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
+
 http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fivesal/L060/refs/heads/main/prima.png",PRIMA HD
@@ -90,6 +92,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 ch-number="107" tvg-logo="https://raw.githubusercontent.com/Fivesal/L060/refs/heads/main/warna.png",WARNA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
+
 http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fivesal/L060/refs/heads/main/warna.png",WARNA HD 
@@ -100,6 +104,8 @@ https://linears-playback.astro.com.my/vsg/41UOPUkExR1MZuCJ2Iwjs5j4mRPlav7tY9w0nw
 #EXTINF:-1 ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
+
 http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",CITRA HD
