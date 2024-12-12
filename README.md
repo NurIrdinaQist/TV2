@@ -115,7 +115,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referrer=https://awesometv.my/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1550
+http://51.79.248.110:888/Lyana/Lyana/11
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV 
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1732111727-9a7a1df81e36478787cfba9ba46267ad-0-3fbbcb00a1dba2cd1eb28bc574ab4ed2&token=1732111727-9a7a1df81e36478787cfba9ba46267ad-0-3fbbcb00a1dba2cd1eb28bc574ab4ed2
