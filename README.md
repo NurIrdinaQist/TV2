@@ -839,7 +839,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
+http://51.79.248.110:888/Lyana/Lyana/8401
 
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
+http://51.79.248.110:888/Lyana/Lyana/8406
+
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
+http://51.79.248.110:888/Lyana/Lyana/8391
+
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
+http://51.79.248.110:888/Lyana/Lyana/8392
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
