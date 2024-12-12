@@ -104,10 +104,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 ch-number="148" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1 ch-number="149" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png",TV9 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
