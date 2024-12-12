@@ -29,6 +29,10 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria 
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 
+#EXTINF:-1 ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HOK_CH100.png",Home Of Kids    
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmFz6HlcmwsnM9+DiTSBfw", "kid":"EtmlTkWNMZdWMr4XqNrAEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
 
 #EXTINF:-1 ch-number="101" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
