@@ -75,7 +75,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
 
-#EXTINF:-1 ch-number="110" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Premier_2024.png",Premier
+EXTINF:-1 ch-number="110" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Premier_2024.png",Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
