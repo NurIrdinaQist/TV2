@@ -54,11 +54,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 
+#EXTINF:-1 ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",RIA HD
+http://31.42.187.37:25461/watchpad13158/1234/68
+
 #EXTINF:-1 ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://d14sysfrzu8fji.cloudfront.net/prima.mpd
+
+#EXTINF:-1 ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",PRIMA HD
+http://31.42.187.37:25461/watchpad13158/1234/65
 
 #EXTINF:-1 ch-number="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",OASIS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -69,6 +75,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 http://d14sysfrzu8fji.cloudfront.net/citra.mpd
+
+#EXTINF:-1 ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",CITRA HD
+http://31.42.187.37:25461/watchpad13158/1234/6316
 
 EXTINF:-1 ch-number="110" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Premier_2024.png",Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
