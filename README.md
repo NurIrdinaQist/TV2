@@ -121,7 +121,7 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referrer=https://awesometv.my/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
-http://51.79.248.110:888/Lyana/Lyana/11
+https://tinyurl.com/awesometv01
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey.ottlayarkaca.me
