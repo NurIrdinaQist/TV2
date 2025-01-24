@@ -764,7 +764,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola1.mpd
 
 #EXTINF:-1 ch-number="803" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",ARENA BOLA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWmxaREZrT1dFdE56TXpOUzAwTldGaExXRTBORGd0WVdReFlqVXdObUZoT0RjMSIsIndtb3BpZCI6MzIsImV4cCI6MTczNzU0NDc0MywiaWF0IjoxNzM2OTQwNzQzfQ.0xAZ-AUhPJT9MC4OEBbIS5oaFlD0Ib-fHjAVRjhb-ss"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
@@ -777,7 +777,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola2.mpd
 
 #EXTINF:-1 ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",ARENA BOLA 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWmxaREZrT1dFdE56TXpOUzAwTldGaExXRTBORGd0WVdReFlqVXdObUZoT0RjMSIsIndtb3BpZCI6MzIsImV4cCI6MTczNzU0NDc0MywiaWF0IjoxNzM2OTQwNzQzfQ.0xAZ-AUhPJT9MC4OEBbIS5oaFlD0Ib-fHjAVRjhb-ss"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
@@ -790,7 +790,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/grand.mpd
 
 #EXTINF:-1 ch-number="810" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png",Astro Grandstand
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWmxaREZrT1dFdE56TXpOUzAwTldGaExXRTBORGd0WVdReFlqVXdObUZoT0RjMSIsIndtb3BpZCI6MzIsImV4cCI6MTczNzU0NDc0MywiaWF0IjoxNzM2OTQwNzQzfQ.0xAZ-AUhPJT9MC4OEBbIS5oaFlD0Ib-fHjAVRjhb-ss"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
@@ -803,8 +803,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier1.mpd
 
 #EXTINF:-1 ch-number="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWmxaREZrT1dFdE56TXpOUzAwTldGaExXRTBORGd0WVdReFlqVXdObUZoT0RjMSIsIndtb3BpZCI6MzIsImV4cCI6MTczNzU0NDc0MywiaWF0IjoxNzM2OTQwNzQzfQ.0xAZ-AUhPJT9MC4OEBbIS5oaFlD0Ib-fHjAVRjhb-ss"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
@@ -817,8 +816,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier2.mpd
 
 #EXTINF:-1 ch-number="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWmxaREZrT1dFdE56TXpOUzAwTldGaExXRTBORGd0WVdReFlqVXdObUZoT0RjMSIsIndtb3BpZCI6MzIsImV4cCI6MTczNzU0NDc0MywiaWF0IjoxNzM2OTQwNzQzfQ.0xAZ-AUhPJT9MC4OEBbIS5oaFlD0Ib-fHjAVRjhb-ss"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
