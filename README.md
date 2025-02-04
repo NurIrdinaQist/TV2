@@ -128,18 +128,11 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.stream_headers=Referrer=https://awesometv.my/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
-https://tinyurl.com/awesometv01
-
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey.ottlayarkaca.me
-#KODIPROP:inputstream.adaptive.license_key=https://drm.telcofix.me/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjg5MTM3NDAiLCJyZWZyZXNoX3Rva2VuIjoiYWZZNnF5UHVZU1hlQVNIWWsyUGZOTDZ1a0liaFZoZFwvd2krcFVueVdVWDZFWCtObnhpb20xYXNvcWYrbUpTcXZUSXhnSlwvSXdCa3FFajNEcmh3ZjB1UlpXTGJpOXJhV0g1aWVubXQ4Qks3ZzI0Rmsyb0hMUkpONFpuQXdDWHJiMTZrVlp2Wk1Pa25ldmEyYXhMVWVxbVJnVUF1Zk1SWFBoMnlmZ3Vha3kwb3dBVXQ2K2VhS1BpeGo3Y1dtQXhDaTRnbXZaZHdud1Rjd0c5V1wvV2NGQ1E2U1JBQWZ4VDBFS050S25EZm1iWUJqMXkyQ3VMM1cwVitLU1QxYmlDZnNLcEJYdHFtallXcEJOSEJpY0RVSXVFa3ZYa2FrMjhvRGI2b2ZvZEpSSlRXZFN2enE0dmNLYzdERStPK3lFdGdVMFZQZmZLaXp3S2NlWW5jSVNvQnlUREVhbjUwWkc4TTBBMHJySWlLZDlFejArajAwdkM4cTdHNWNSWlpDQ0YwYm5aIn0=
-#EXTVLCOPT:http-referrer=https://awesometv.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-https://ottmy.com/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiOTI1NzA0MzgiLCJyZWZyZXNoX3Rva2VuIjoiQnhSZWtjUlFZeEM0Rm85Tjc5QVJUazZsYUM3ZG90V2dqTXI0MEF2Q3JUdmg3VTFqcnF2eTNcL2ZyR2FzNWdxOTJlZFRwVXRyUWdWZU9Uc0pnRmNuMkVUK0lGdXRjZDdGekNLYlNrRGd3VGJTOW9PR3FNdVlId256YlR4Tkp6RER2MjVHSTAwT1wvT2RvU0RUb1FyKzZGZFcrcDM0azZJMDRBR3ljZkNrY29YQVRcL0ZGc1NGZlJVdjR1d3hEdUtPb2JZVmREMVBzU1pManM0Sml0R3ZLdEsyTG84bHppRmpEaGRYR2VNR2tSUFdFRmNPVHdqXC9xVXJGcGRJcVlBemdkbWZteDlVb2dGcHhCYkpFSkJseWJ2aEs2NVdBNGplcEMzXC9SaWhuRzhRenR0MVlnZ0VJVVNnamwwXC8rcVhVTGxcL1A3RGUxdDRMTmkrcmlndk5ocHhCaWpDUT09In0=
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+httpss://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV 
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1732111727-9a7a1df81e36478787cfba9ba46267ad-0-3fbbcb00a1dba2cd1eb28bc574ab4ed2&token=1732111727-9a7a1df81e36478787cfba9ba46267ad-0-3fbbcb00a1dba2cd1eb28bc574ab4ed2
