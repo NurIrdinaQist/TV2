@@ -938,14 +938,49 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",RIA HD
-https://raw.githubusercontent.com/elhafizzo/axxtro/refs/heads/main/ria.m3u8
+#EXTINF:-1  tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://aseanic.github.io/hls/33.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",PRIMA HD
-https://raw.githubusercontent.com/elhafizzo/axxtro/refs/heads/main/prima.m3u8
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+https://aseanic.github.io/hls/34.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",CITRA HD
-https://raw.githubusercontent.com/elhafizzo/axxtro/refs/heads/main/citra.m3u8
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/13/x1OsD8.png",Astro Oasis
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
+https://aseanic.github.io/hls/36.m3u8
+
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+https://aseanic.github.io/hls/37.m3u8
+
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/13/x1k1JJ.png",Astro Sensasi
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
+#https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+https://aseanic.github.io/hls/38.m3u8
 
 
 
