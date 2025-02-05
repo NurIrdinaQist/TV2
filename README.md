@@ -6,27 +6,27 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji 
+EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609/ 
 https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",Drama Hebat 
+EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",Drama Hebat 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap 
+EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",Lawak Sentral 
+EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",Lawak Sentral 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",Drama Hotpot 
+EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",Drama Hotpot 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel&amp;Taste 
+EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel&amp;Taste 
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria 
+EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria 
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 
 #EXTINF:-1 ch-number="101" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 
@@ -85,6 +85,8 @@ https://linearjitp.perfecttv.net/citra.mpd
 
 EXTINF:-1 ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",CITRA HD
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_Warna_%28Dec_2024%29.png/revision/latest/scale-to-width-down/250?cb=20241125072155", Astro Warna SG (Test)
+https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
 
 #EXTINF:-1 ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",SENSASI HD
 https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%24%E2%82%AC%CF%80%24%E2%88%86%24%C2%A1.%20m3u8
@@ -459,6 +461,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 ****************************************************
 
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="HBO USA Channels", HBO Zone (Test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHURlafg8JSmECHohNOUw","k":"aAvjS0qckmR3GxmDsf3JnA"},{"kty":"oct","kid":"AQJZdTB7XAUB6HEDAHSqzg","k":"sBBTAsuuI9lRvrEmkAVlNg"},{"kty":"oct","kid":"AQBGyruYoH5M3wnD77PBIQ","k":"GbD4P1ZiDyfxV5qB2-bIjQ"}],"type":"temporary"}
+https://gcp.live.na.prd.media.max.com/live/use1/e91_CixhY2EwNjZmYi05OGJiLTU3NmItYjg2YS0zZDRhZmVkN2ZiOGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/fallback.mpd
+
+#EXTINF:-1 tvg-id="HBOUS" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="HBO USA Channels", HBO USA
+https://fl2.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2WEST" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/1280px-HBO_2_%282014%29.svg.png" group-title="HBO USA Channels", HBO 2 East
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NWM1OTI0ZTgtNTVjOC0zNDYzLWI1MzUtYzU4OWI0ZGVkNThj
@@ -574,9 +588,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 KARTUN********************
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png",Animax 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NGJiMTI4OWUtMDBkYy0zZmFjLTgxYjQtNjljZGFlY2JkZTQx
-https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","origin":"https://watch.tonton.com.my","referer":"https://watch.tonton.com.my/","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"Windows","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-site","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
+https://janton.whacat.me/tonton/ANIMAX
 
 
 #EXTINF:-1 ch-number="611" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",CERIA HD
