@@ -56,7 +56,7 @@ https://manifest.bapok.best/UnifiTV/TV3.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 
-#EXTINF:-1 ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",RIA HD
+EXTINF:-1 ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",RIA HD
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp.perfecttv.net/ria.mpd
@@ -67,7 +67,7 @@ https://linearjitp.perfecttv.net/ria.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A1%CF%80%CF%80%E2%88%86.m3u8
 
-#EXTINF:-1 ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",PRIMA HD
+EXTINF:-1 ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/elhafizzo/axxtro/refs/heads/main/citra.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_Warna_%28Dec_2024%29.png/revision/latest/scale-to-width-down/250?cb=20241125072155", Astro Warna SG (Test)
 https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
 
-#EXTINF:-1 ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",SENSASI HD
+EXTINF:-1 ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",SENSASI HD
 https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%24%E2%82%AC%CF%80%24%E2%88%86%24%C2%A1.%20m3u8
 
 EXTINF:-1 ch-number="110" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Premier_2024.png",Premier
