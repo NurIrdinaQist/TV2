@@ -63,12 +63,10 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 
 #EXTINF:-1 ch-number="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NXnpRPwUbZ03AvQZxT+1XQ", "kid":"IkibOmMizjqBHzE8R/PYQg" } ], "type":"temporary" }
-https://manifest.bapok.best/UnifiTV/TV3.mpd
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
 
 #EXTINF:-1 ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
