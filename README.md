@@ -983,7 +983,38 @@ https://aseanic.github.io/hls/37.m3u8
 https://aseanic.github.io/hls/38.m3u8
 
 
+#EXTINF:-1  tvg-id="104.astro"  group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria
+#KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3,d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0 
+https://l16.dp.sooka.my/1004/linear/index.mpd
 
+#EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima
+#KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da,6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
+https://l18.dp.sooka.my/1000/linear/index.mpd
 
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
+https://www.googleapis.com/drive/v3/files/1XNOxWcc0TOqhBQo9gXO9yQxolfcN5pJm?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
+plugin://plugin.video.youtube/play/?video_id=MiTHrzuyTzA&live=1
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
+plugin://plugin.video.youtube/play/?video_id=f0KeLKauiDU&live=1
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Prebet%20Lapok.mp4
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Da%20Di%20Du.mp4
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/23/xpodQJ.png",Astro Maya HD
+https://vod.tonton.com.my/vod/379/6449210/playlist_wifi_high.m3u8
 
 #EXTM3U billed-msg="😎 BijanBusuk 4ever 😎"
